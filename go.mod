@@ -1,3 +1,3 @@
-module github.com/nontechno/link
+module nontechno.com/link
 
 go 1.22.2
